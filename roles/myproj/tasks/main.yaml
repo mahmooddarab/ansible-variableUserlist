@@ -1,0 +1,8 @@
+- name: -----------print myvar--------------
+  debug:
+    msg: "{{user_list}}"
+  tags: var
+- name: -----------print myvar--------------
+  debug:
+    msg: "{{user_list2[0]}}"
+  tags: var

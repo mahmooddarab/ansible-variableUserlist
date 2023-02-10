@@ -1,0 +1,5 @@
+user_list:
+  - mehdi
+  - payam
+  - saman
+user_list2: ["mohsen","mahmood","vahid"]
